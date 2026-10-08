@@ -1,0 +1,82 @@
+.gitignore
+  h_8da74988d95bb3 1-24
+README.md
+  h_8da74988d95bb3 1-182
+backend/go.mod
+  h_8da74988d95bb3 1-3
+backend/handler/agent.go
+  h_8da74988d95bb3 1-253
+backend/handler/agent_group.go
+  h_8da74988d95bb3 1-101
+backend/handler/agent_group_config.go
+  h_8da74988d95bb3 1-150
+backend/handler/common.go
+  h_8da74988d95bb3 1-73
+backend/handler/enums.go
+  h_8da74988d95bb3 1-57
+backend/main.go
+  h_8da74988d95bb3 1-124
+backend/proxy/client.go
+  h_8da74988d95bb3 1-112
+backend/proxy/deepflow.go
+  h_8da74988d95bb3 1-23
+frontend/.nvmrc
+  h_8da74988d95bb3 1
+frontend/env.d.ts
+  h_8da74988d95bb3 1-7
+frontend/index.html
+  h_8da74988d95bb3 1-15
+frontend/package-lock.json
+  h_8da74988d95bb3 1-2003
+frontend/package.json
+  h_8da74988d95bb3 1-26
+frontend/src/App.vue
+  h_8da74988d95bb3 1-7
+frontend/src/api/agent.ts
+  h_8da74988d95bb3 1-47
+frontend/src/api/agentGroup.ts
+  h_8da74988d95bb3 1-16
+frontend/src/api/agentGroupConfig.ts
+  h_8da74988d95bb3 1-24
+frontend/src/api/client.ts
+  h_8da74988d95bb3 1-30
+frontend/src/components/common/YamlEditor.vue
+  h_8da74988d95bb3 1-61
+frontend/src/components/layout/AppLayout.vue
+  h_8da74988d95bb3 1-39
+frontend/src/components/layout/AppSidebar.vue
+  h_8da74988d95bb3 1-31
+frontend/src/components/layout/ConnectionBar.vue
+  h_8da74988d95bb3 1-73
+frontend/src/constants/enums.ts
+  h_8da74988d95bb3 1-6
+frontend/src/main.ts
+  h_8da74988d95bb3 1-24
+frontend/src/router/index.ts
+  h_8da74988d95bb3 1-25
+frontend/src/stores/connection.ts
+  h_8da74988d95bb3 1-39
+frontend/src/views/agent/AgentList.vue
+  h_8da74988d95bb3 1-254
+frontend/src/views/config/AgentGroupConfig.vue
+  h_8da74988d95bb3 1-220
+frontend/src/views/group/AgentGroupList.vue
+  h_8da74988d95bb3 1-123
+frontend/tsconfig.json
+  h_8da74988d95bb3 1-21
+frontend/tsconfig.node.json
+  h_8da74988d95bb3 1-13
+frontend/vite.config.ts
+  h_8da74988d95bb3 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "9fcbfd8f9ab6aef16f753cdf6f27af1b7ea965d8",
+  "prompts": {},
+  "humans": {
+    "h_8da74988d95bb3": {
+      "author": "moto1o <moto1o@163.com>"
+    }
+  }
+}
